@@ -1,0 +1,86 @@
+{
+  "lang": "es",
+  "myInfo": {
+    "name": "Your name",
+    "short_name": "Your name",
+    "email": "your@email.com",
+    "address1": "Address 1",
+    "address2": "Address 2",
+    "postcode": "123456",
+    "town": "Town/City",
+    "nie": "Y123456A",
+    "name_of_bank": "Bank name",
+    "account_name": "Your name",
+    "account_number": "12345678",
+    "accountant_name": "Your accountant",
+    "accountant_email": "youraccountant@email.com"
+  },
+  "messages": {
+    "to_recipient": "<p>Hello,</p><p>I've attached my latest invoice.</p><p>Regards</p>",
+    "to_accountant": "<p>Hello,</p><p>I've attached my latest invoice.</p><p>Regards</p>"
+  },
+  "defaults": {
+    "recipient_name": "Your recipient's name",
+    "recipient_nie": "Y123456A",
+    "recipient_address": "Address 1, Address 2, Address 3, Town/City, 12345",
+    "recipient_email": "recipient@email.com",
+    "description": "Item description",
+    "start_number": 1
+  },
+  "spreadsheet": {
+    "book_id": "your book id"
+  },
+  "drive_id": "your drive id",
+  "style": {
+    "font_normal": "Helvetica",
+    "font_bold": "Helvetica-Bold",
+    "font_size_offset": 0
+  },
+  "text": {
+    "invoice": {
+      "en": "Invoice",
+      "es": "Factura"
+    },
+    "date": {
+      "en": "Date",
+      "es": "Fecha"
+    },
+    "invoice_number": {
+      "en": "Invoice number",
+      "es": "Número de factura"
+    },
+    "send_to": {
+      "en": "Send to",
+      "es": "Enviar a"
+    },
+    "description": {
+      "en": "Description",
+      "es": "Descripción"
+    },
+    "total": {
+      "en": "Total",
+      "es": "Total"
+    },
+    "grand_total": {
+      "en": "Grand Total",
+      "es": "Gran Total"
+    },
+
+    "name_of_bank": {
+      "en": "Name of bank",
+      "es": "Nombre el banco"
+    },
+    "account_name": {
+      "en": "Account name",
+      "es": "Nombre de la cuenta"
+    },
+    "account_number": {
+      "en": "Account number",
+      "es": "Número de cuenta"
+    }
+  },
+  "currency": {
+    "en": "£",
+    "es": "€"
+  }
+}
